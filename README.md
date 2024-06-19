@@ -27,7 +27,7 @@
 Follow these commands to get your app ready with installation.
 
 ```bash
-git clone https://github.com/yashsaini24/pizza-house.git
+git clone https://github.com/sakethdonepudi/pizzastore.git
 ```
 
 ```bash
@@ -42,7 +42,7 @@ npm run dev
 
 ## 🎇 Contributing
 
-If you find bugs with this project, pull requests are always welcome. You can [create an issue here](https://github.com/yashsaini24/pizza-house/issues/new).
+If you find bugs with this project, pull requests are always welcome. You can [create an issue here](https://github.com/sakethdonepudi/pizzastore/issues/new).
 Your :star: is also greatly appreciated.
 
-[Checkout my GitHub profile and view some more awesome projects](https://github.com/yashsaini24)
+[Checkout my GitHub profile and view some more awesome projects](https://github.com/sakethdonepudi)
